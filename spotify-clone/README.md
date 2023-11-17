@@ -1,6 +1,10 @@
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
+## Live demo:
+https://spotify-clone-bqgr.onrender.com/
+
+![image](https://github.com/tnttb79/spotify-clone_07_03-08_01/assets/90600992/f7e40655-03e8-43da-a6aa-657972e40b1c)
 
 ## System Requirements
 
